@@ -11,10 +11,12 @@
 - I played softball for seven years and am a huge baseball fan.
 - My favorite artists are Role Model and Beabadoobee!
 
-**Language**
+**Languages**
+
 OCaml, Java, JavaScript, TypeScript, Python, SQL, C, 84x-64 Assembly, Rust
 
 **Connect with me!**
+
 [LinkedIn](https://www.linkedin.com/in/alexis-tungcod-982624326/)
 
 <!--
