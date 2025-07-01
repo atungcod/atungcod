@@ -7,19 +7,14 @@
 🪽 Learning about Data Science and AI/ML.
 
 **Fun Facts**
-
 - I love traveling, and my favorite trip was to Hong Kong.
-- 
 - I played softball for seven years and am a huge baseball fan.
-- 
 - My favorite artists are Role Model and Beabadoobee!
 
 **Language**
-
 OCaml, Java, JavaScript, TypeScript, Python, SQL, C, 84x-64 Assembly, Rust
 
 **Connect with me!**
-
 [LinkedIn](https://www.linkedin.com/in/alexis-tungcod-982624326/)
 
 <!--
