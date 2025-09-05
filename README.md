@@ -2,7 +2,7 @@
 
 **Currently..**
 
-⚡️ Interning at Marriott International on their Global Information Security Team.
+⚡️ Working as a SWE for Hack4Impact-UMD
 
 🪽 Learning about Data Science and AI/ML.
 
