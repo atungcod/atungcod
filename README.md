@@ -11,7 +11,6 @@
 **Fun Facts**
 - I love traveling, and my favorite trip was to Hong Kong.
 - I played softball for seven years and am a huge baseball fan.
-- My favorite artists are Role Model and Beabadoobee!
 
 **Languages**
 
