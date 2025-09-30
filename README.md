@@ -16,9 +16,6 @@
 
 OCaml, Java, JavaScript, TypeScript, Python, SQL, C, 84x-64 Assembly, Rust
 
-**Connect with me!**
-
-[LinkedIn](https://www.linkedin.com/in/alexis-tungcod-982624326/)
 
 <!--
 **atungcod/atungcod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
