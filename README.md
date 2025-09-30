@@ -2,7 +2,7 @@
 
 **Currently..**
 
- 🌎 Working as a SWE for Hack4Impact-UMD
+ 🌎 Working as a SWE for Hack4Impact-UMD (Camp Starfish)
 
  🎧 Self-teaching myself Data Science and AI/ML
 
