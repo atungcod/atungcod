@@ -2,7 +2,7 @@
 
 **Currently..**
 
- 🌎 Working as a SWE for Hack4Impact-UMD (Camp Starfish)
+ 🌎 Working as a Product Manager for Hack4Impact-UMD (Mount Vernon Trail)
 
  🎧 Self-teaching myself Data Science and AI/ML
 
