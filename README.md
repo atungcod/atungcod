@@ -4,9 +4,6 @@
 
  🌎 Working as a Product Manager for Hack4Impact-UMD (Mount Vernon Trail)
 
- 🎧 Self-teaching myself Data Science and AI/ML
-
- ☁️ Studying to obtain an AWS Cloud Practitioner Certification
 
 **Fun Facts**
 - I love traveling, and my favorite trip was to Hong Kong.
