@@ -3,6 +3,7 @@
 **Currently..**
 
  🌎 Working as a Product Manager for Hack4Impact-UMD (Mount Vernon Trail)
+ 
  💻 Studying for the AWS AI Practioner Exam
 
 
