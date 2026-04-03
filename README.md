@@ -1,4 +1,4 @@
-### Hi! I'm Alexis! I'm studying Computer Science, Cybersecurity  & Data Science @ UMD.
+### Hi! I'm Alexis! I'm studying Computer Science & Cybersecurity @ UMD.
 
 **Currently..**
 
