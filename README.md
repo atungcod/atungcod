@@ -4,7 +4,7 @@
 
  🌎 Working as a Product Manager for Hack4Impact-UMD (Mount Vernon Trail)
  
- 💻 Studying for the AWS AI Practioner Exam
+ 💻 Studying for the AWS AI Practitioner Exam (AWS AI Scholars)
 
 
 **Future Plans**
@@ -14,9 +14,6 @@
 
 > Student Product Manager @ Develop for Good (Summer 2026)
 
-**Languages**
-
-OCaml, Java, JavaScript, TypeScript, Python, SQL, C, 84x-64 Assembly, Rust
 
 
 <!--
