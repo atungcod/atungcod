@@ -9,7 +9,9 @@
 
 **Future Plans**
 > Incoming Technical Product Manager Intern @ Marriott International (Summer 2026)
+
 > Plus 1 Master's Program @ UMD Robert H. Smith School of Business: Business Analytics & AI (Fall 2026 - Spring 2027)
+
 > Student Product Manager @ Develop for Good (Summer 2026)
 
 **Languages**
