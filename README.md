@@ -7,9 +7,10 @@
  💻 Studying for the AWS AI Practioner Exam
 
 
-**Fun Facts**
-- I love traveling, and my favorite trip was to Hong Kong.
-- I played softball for seven years and am a huge baseball fan.
+**Future Plans**
+> Incoming Technical Product Manager Intern @ Marriott International (Summer 2026)
+> Plus 1 Master's Program @ UMD Robert H. Smith School of Business: Business Analytics & AI (Fall 2026 - Spring 2027)
+> Student Product Manager @ Develop for Good (Summer 2026)
 
 **Languages**
 
