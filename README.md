@@ -3,16 +3,10 @@
 **Currently..**
 
  🌎 Working as a Product Manager for Hack4Impact-UMD (Mount Vernon Trail)
- 
- 💻 Studying for the AWS AI Practitioner Exam (AWS AI Scholars)
 
+ 💻 Student in the Plus 1 Master's Program for Business Analytics & AI (Fall 2026 - Spring 2027)
 
-**Future Plans**
-> Incoming Technical Product Manager Intern @ Marriott International (Summer 2026)
-
-> Plus 1 Master's Program @ UMD Robert H. Smith School of Business: Business Analytics & AI (Fall 2026 - Spring 2027)
-
-> Student Product Manager @ Develop for Good (Summer 2026)
+ 🏨 Working part-time as a Systems Engineer for Marriott International
 
 
 
